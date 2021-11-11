@@ -73,4 +73,4 @@ mod + drag with left click: Move client
 mod + drag with right click: Resize client
 
 
-I will probably not be fixing many issues cause im currently very busy sorry.
+I will probably not be fixing many issues Right now im currently very busy.
