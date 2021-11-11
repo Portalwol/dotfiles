@@ -21,3 +21,35 @@ after that to install better discord do
 
 alright from here shove everything in your .config except readme.md dumbas
 I dont provide dispplay manager and xorg server setup so you do that on your own.
+
+
+
+
+
+
+
+
+
+
+Keybinds
+Keybinds you can change them in keys.lua
+
+Keyboard
+mod + enter: Spawn terminal
+mod + s: Show help menu
+mod + d: Spawn rofi (an application menu)
+mod + F11: Make client fullscreen
+mod + m: Maximize client
+mod + n: Minimize client
+mod + shift + n: Unminimize client
+mod + [1-9]: Switch to tag [1-9]
+mod + shift + [1-9]: Move client to tag [1-9]
+mod + space: Change the tag layout, alternating between tiled, floating, and maximized
+mod + [up / down / left / right / h / j / k / l]: Change client by direction
+mod + Control + [up / down / left / right / h / j / k / l]: Resize client by direction
+mod + Escape: Show exit screen
+
+
+Mouse
+mod + drag with left click: Move client
+mod + drag with right click: Resize client
