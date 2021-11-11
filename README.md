@@ -4,7 +4,7 @@
 
 Thanks flameshot for destroyingn the image anyways.
 
-These are my dotfiles Ill put instructions on how to download them but they might not work the best for other people so sorry if any issues arrive unless im in a good mood Because I never planned too release this lmao.
+These are my dotfiles Ill put instructions on how to download them but they might not work the best for other people so sorry if any issues arrive.
 
 
 Alright how to install
