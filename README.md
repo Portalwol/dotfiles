@@ -22,8 +22,8 @@ after that to install better discord do
 
 **betterdiscordctl install**
 
-alright from here shove everything in your .config except readme.md dumbas
-I dont provide dispplay manager and xorg server setup so you do that on your own.
+alright from here shove everything in your .config except readme.md
+I dont provide dipplay manager and xorg server setup so you do that on your own.
 
 
 
